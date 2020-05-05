@@ -5,3 +5,5 @@ V2RAY
 https://cdn.jsdelivr.net/gh/ntkernel/lantern/vmess_base64.txt
 ## CDN加速
 https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
+## CDN
+https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/
