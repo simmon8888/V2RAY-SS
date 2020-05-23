@@ -6,6 +6,8 @@ V2RAY
 
 https://xbsj8564.xyz/rss/64rEKT5/H991yh?net_type=VMESS
 
+https://qh4kf.baipiaosw.workers.dev/
+
 ## CDN加速
 https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
 
