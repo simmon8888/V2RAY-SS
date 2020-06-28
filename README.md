@@ -8,4 +8,4 @@ https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
 
 
 ## 推荐机场
-[可以白嫖的机场](https://v2.freeok.xyz/auth/register?code=NTB0)
+[可以白嫖的机场](http://6tt.co/qTen)
